@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  Hey! I'm 'Josh' but you can call me **'Davetto'**. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
+  Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
 </p>
 
 
