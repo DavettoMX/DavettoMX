@@ -7,10 +7,13 @@
 <p align="center">
   Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
   I love Backend Developer, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies
+</p>
+  
+<div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight)
   
-</p>
+</div>
 
 ## LANGUAGES I KNOW
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
