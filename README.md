@@ -1,7 +1,10 @@
 [![Header](banner.png "Header")](https://github.com/DavettoMX)
 
+<h1 align="center">
+ABOUT ME
+</h1>
+
 <p align="center">
-# About Me!
 Hey! I'm 'Josh' but you can call me 'Davetto'.
 </p>
 
