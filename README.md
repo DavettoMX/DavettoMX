@@ -6,6 +6,7 @@
 
 <p align="center">
   Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
+  I love Backend Developer, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies
 </p>
 
 
