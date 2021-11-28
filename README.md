@@ -9,7 +9,6 @@
   I love Backend Developer, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
 </p>
 
@@ -42,3 +41,5 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
