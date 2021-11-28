@@ -1,12 +1,14 @@
 [![Header](banner.png "Header")](https://github.com/DavettoMX)
 
 <h1 align="center">
-ABOUT ME
+  ABOUT ME
 </h1>
 
 <p align="center">
-Hey! I'm 'Josh' but you can call me 'Davetto'.
+  Hey! I'm 'Josh' but you can call me **'Davetto'**. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
 </p>
+
+
 
 
 ## LANGUAGES I KNOW
@@ -30,3 +32,5 @@ Hey! I'm 'Josh' but you can call me 'Davetto'.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+[![DavettoMX GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX)](https://github.com/anuraghazra/github-readme-stats)
