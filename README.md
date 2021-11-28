@@ -7,6 +7,9 @@
 <p align="center">
   Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
   I love Backend Developer, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies
+  
+  | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+  
 </p>
 
 ## LANGUAGES I KNOW
@@ -26,7 +29,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   
 ### FRAMEWORKS I'M LEARNING
-![ASP.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
  
@@ -38,14 +41,3 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-## STATS
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight)
-  
-  <h2> MY TOP LANGUAGES </h2>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
