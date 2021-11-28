@@ -1,12 +1,12 @@
 [![Header](banner.png "Header")](https://github.com/DavettoMX)
 
 <h1 align="center">
-  ABOUT ME
+  HEY THERE! I'M JOSH!
 </h1>
 
-<p align="center">
-  Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
-  I love Backend Developer, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies
+<h2 align="center">
+ 💻 Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
+  I love Backend Developer, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies 💻
 </p>
   
 <div align="center">
@@ -14,8 +14,17 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight)
   
 </div>
+  
+### 🤝 Connect with me:
 
-## LANGUAGES I KNOW
+<a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+</a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+# Technical Skills
+
+## 💼  LANGUAGES I KNOW
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
