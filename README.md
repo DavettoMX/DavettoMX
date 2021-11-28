@@ -8,7 +8,8 @@
   Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
   I love Backend Developer, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies
   
-  | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
   
 </p>
 
