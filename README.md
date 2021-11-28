@@ -1,5 +1,11 @@
 [![Header](banner.png "Header")](https://github.com/DavettoMX)
 
+<p align="center">
+# About Me!
+Hey! I'm 'Josh' but you can call me 'Davetto'.
+</p>
+
+
 ## LANGUAGES I KNOW
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
