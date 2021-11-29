@@ -1,4 +1,4 @@
-[![Header](banner "Header")](https://github.com/DavettoMX)
+[![Header](banner.png "Header")](https://github.com/DavettoMX)
 
 <h1 align="center">
   HEY THERE! I'M JOSH!
