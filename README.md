@@ -17,7 +17,7 @@
   
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/"> <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 </a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
