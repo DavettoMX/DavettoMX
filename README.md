@@ -17,7 +17,7 @@
 # Technical Skills
 
 ##### 💼 LANGUAGES I KNOW 💼
-![](img/django.svg)
+<img class="icon" src="img/django.svg" width="50px" height="50px">
   
 ##### LANGUAGES I'M LEARNING
 
