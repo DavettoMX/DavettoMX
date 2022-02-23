@@ -1,5 +1,3 @@
-[![Header](header.png "Header")](https://github.com/DavettoMX)
-
 <h1 align="center">
   HEY THERE! I'M JOSH!
 </h1>
