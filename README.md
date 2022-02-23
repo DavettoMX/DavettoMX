@@ -1,7 +1,3 @@
-<style>
-  .icon {color: #fff;}
-</style>
-
 <h1 align="center">
   HEY THERE! I'M JOSH!
 </h1>
@@ -21,7 +17,7 @@
 # Technical Skills
 
 ##### 💼 LANGUAGES I KNOW 💼
-<img class="icon" src="img/Languages/javascript.svg" width="50px" height="50px">
+<img class="icon" src="img/Languages/javascript.svg" width="50px" height="50px" color: #fff>
 <img class="icon" src="img/Languages/python.svg" width="50px" height="50px">
 <img class="icon" src="img/Languages/csharp.svg" width="50px" height="50px">
 
