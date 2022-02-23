@@ -1,3 +1,7 @@
+<style>
+  .icon {color: #fff;}
+</style>
+
 <h1 align="center">
   HEY THERE! I'M JOSH!
 </h1>
@@ -19,7 +23,7 @@
 ##### 💼 LANGUAGES I KNOW 💼
 <img class="icon" src="img/Languages/javascript.svg" width="50px" height="50px">
 <img class="icon" src="img/Languages/python.svg" width="50px" height="50px">
-<img class="icon" src="img/Languages/javascript.svg" width="50px" height="50px">
+<img class="icon" src="img/Languages/csharp.svg" width="50px" height="50px">
 
   
 ##### LANGUAGES I'M LEARNING
