@@ -56,6 +56,3 @@
 ##### SERVICES I USE
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
