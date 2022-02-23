@@ -17,7 +17,7 @@
 # Technical Skills
 
 ##### 💼 LANGUAGES I KNOW 💼
-<img class="icon" src="	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img class="icon" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img class="icon" src="img/Languages/python.svg" width="50px" height="50px">
 <img class="icon" src="img/Languages/csharp.svg" width="50px" height="50px">
 
