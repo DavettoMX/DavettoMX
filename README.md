@@ -17,7 +17,7 @@
 # Technical Skills
 
 ##### 💼 LANGUAGES I KNOW 💼
-<img class="icon" src="img/Languages/javascript.svg" width="50px" height="50px" style="background-color: #fff">
+<img class="icon" src="img/Languages/javascript.svg" width="50px" height="50px" style="filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%) contrast(119%);">
 <img class="icon" src="img/Languages/python.svg" width="50px" height="50px">
 <img class="icon" src="img/Languages/csharp.svg" width="50px" height="50px">
 
