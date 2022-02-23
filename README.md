@@ -4,7 +4,7 @@
 
 <h3 align="center">
  💻 Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
-  I love Backend Development, Game Development and A.I. My dream jobs are in Game Development or Working for Space Agencies 💻
+  I love Backend Development, Game Development, Cibersecurity and A.I. 💻
 </p>
   
 <div align="center">
