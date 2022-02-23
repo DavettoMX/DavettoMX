@@ -15,7 +15,7 @@
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 # Technical Skills
-#### 💼 LANGUAGES I KNOW 💼
+#### 💼 LANGUAGES 💼
 
 ##### ADVANCE KNWOLEDGE
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,7 +36,7 @@
 <!--![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)-->
 
-#### FRAMEWORKS
+#### 💼 FRAMEWORKS 💼
 
 ##### INTERMEDIATE KNOWLEDGE
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=whit)
