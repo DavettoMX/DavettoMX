@@ -7,12 +7,6 @@
   I love Backend Development, Game Development, Cibersecurity and A.I. 💻
 </p>
   
-<div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=tokyonight)
-  
-</div>
-  
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/"> <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
