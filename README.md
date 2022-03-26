@@ -21,10 +21,6 @@
     <img src="https://img.shields.io/badge/tiktok-20232A?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
 </div>
-  
-</br>
-  
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 # Technical Skills
 #### 💼 PROGRAMMING LANGAGES, FRAMEWORKS & TECHNOLOGIES I WORK WITH 💼
