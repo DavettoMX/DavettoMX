@@ -9,8 +9,9 @@
   
 ### 🤝 Connect with me:
 
-![https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.linkedin.com/in/joshue-garcia-2805361a8/](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)
 </br>
+  
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 # Technical Skills
