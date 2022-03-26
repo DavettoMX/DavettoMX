@@ -30,18 +30,18 @@
 
 
 #### 💼 PROGRAMMING LANGAGES, FRAMEWORKS & TECHNOLOGIES I ALSO KNOW 💼
-![DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=white)
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=white)
 ![CPP](https://img.shields.io/badge/c++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![RUST](https://img.shields.io/badge/rust-20232A?style=for-the-badge&logo=rust&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=whit)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white)
-![FLUTTER](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge)
+<!--[DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)-->
 ![RAILS](https://img.shields.io/badge/Ruby_on_Rails-20232A?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white)
+<!--![FLUTTER](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=white)-->
+![EXPRESS](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge)
+<!--[RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)-->
 ![MYSQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=white)
 
