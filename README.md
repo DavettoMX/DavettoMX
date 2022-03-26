@@ -9,7 +9,7 @@
   
 ### 🤝 Connect with me:
 
-![](https://www.linkedin.com/in/joshue-garcia-2805361a8/)
+![linkedin](https://www.linkedin.com/in/joshue-garcia-2805361a8/)
 </br>
   
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
