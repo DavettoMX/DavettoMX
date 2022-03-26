@@ -18,7 +18,7 @@
 #### 💼 PROGRAMMING LANGAGES, FRAMEWORKS & TECHNOLOGIES I WORK WITH 💼
 ![PY](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/Javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-00ADD8?style=for-the-badge&logo=react&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FLASK](https://img.shields.io/badge/flask-14354C?style=for-the-badge&logo=flask&logoColor=white)
