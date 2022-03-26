@@ -15,10 +15,10 @@
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 # Technical Skills
-#### 💼 LANGUAGES I WORK WITH💼
+#### 💼 LANGUAGES 💼
 
 ##### INTERMEDIATE KNOWLEDGE
-![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=rounded-square&logo=cplusplus&logoColor=D02929)
 ![PY](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
