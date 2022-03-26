@@ -9,8 +9,7 @@
   
 ### 🤝 Connect with me:
 
-<a href="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white"> <img align="center" src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="21px"/></a>
-</a>
+![https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white)
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
