@@ -33,7 +33,7 @@
 ![DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=white)
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=C&logoColor=white)
-![CPP](https://img.shields.io/badge/C%20232A-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CPP](https://img.shields.io/badge/c++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![RUST](https://img.shields.io/badge/rust-20232A?style=for-the-badge&logo=rust&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=whit)
