@@ -11,7 +11,8 @@
 
 <a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
- </a>
+</a>
+  
 </br>
   
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
