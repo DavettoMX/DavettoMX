@@ -18,12 +18,14 @@
 #### 💼 PROGRAMMING LANGAGES, FRAMEWORKS & TECHNOLOGIES I WORK WITH 💼
 ![PY](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![DART](https://img.shields.io/badge/dart-00ADD8?style=for-the-badge&logo=dart&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FLASK](https://img.shields.io/badge/flask-14354C?style=for-the-badge&logo=flask&logoColor=white)
+![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![POSTGRE](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-14354C?style=for-the-badge&logo=docker&logoColor=white)
-
+![GIT](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
 
 
 #### 💼 PROGRAMMING LANGAGES, FRAMEWORKS & TECHNOLOGIES I ALSO KNOW 💼
@@ -39,8 +41,8 @@
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NEXTJS](https://img.shields.io/badge/Nextjs-14354C?style=for-the-badge&logo=nextjs&logoColor=white)
 ![RAILS](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-<!--![FLUTTER](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)-->
-<!--![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)-->
+
+![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
