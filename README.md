@@ -9,7 +9,7 @@
   
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/">
+<a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/" target=_blank>
   <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
  </a>
 </br>
