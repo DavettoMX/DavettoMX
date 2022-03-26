@@ -1,11 +1,9 @@
 <h1 align="center">
-  HEY THERE! I'M JOSH!
+  💻 HEY THERE! I'M JOSH! 💻
 </h1>
 
-<h3 align="center">
- 💻 Hey! I'm 'Josh' but you can call me <b>'Davetto'<b>. I'm studying Mechatronics Engenieer and also I'm a Web Developer.
-  I love Backend Development, Game Development, Cibersecurity and A.I. 💻
-</h3>
+<h3 align="center"> ABOUT ME </h3>
+<p>I am a Python and Go developer with a specialty in Backend, Data Mining and Data Science. I also have basic cybersecurity knowledge with the blue team.</p>
   
 ### 🤝 Connect with me:
 
