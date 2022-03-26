@@ -16,17 +16,17 @@
 
 # Technical Skills
 #### 💼 PROGRAMMING LANGAGES, FRAMEWORKS & TECHNOLOGIES I WORK WITH 💼
-![PY](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white)
+![PY](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-20232A?style=for-the-badge&logo=javascript&logoColor=white)
-![REACT](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FLASK](https://img.shields.io/badge/flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
-![NEXTJS](https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjs&logoColor=white)
-![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![POSTGRE](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![DOCKER](https://img.shields.io/badge/docker-20232A?style=for-the-badge&logo=docker&logoColor=white)
-![GIT](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-14354C?style=for-the-badge&logo=react&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=white)
+![FLASK](https://img.shields.io/badge/flask-14354C?style=for-the-badge&logo=flask&logoColor=white)
+![NEXTJS](https://img.shields.io/badge/Nextjs-14354C?style=for-the-badge&logo=nextjs&logoColor=white)
+![MONGO](https://img.shields.io/badge/MongoDB-14354C?style=for-the-badge&logo=mongodb&logoColor=white)
+![POSTGRE](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=white)
+![DOCKER](https://img.shields.io/badge/docker-14354C?style=for-the-badge&logo=docker&logoColor=white)
+![GIT](https://img.shields.io/badge/git-14354C?style=for-the-badge&logo=git&logoColor=white)
 
 
 #### 💼 PROGRAMMING LANGAGES, FRAMEWORKS & TECHNOLOGIES I ALSO KNOW 💼
