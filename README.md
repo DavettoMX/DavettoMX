@@ -27,6 +27,7 @@
 ![PY](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
+![VUE](https://img.shields.io/badge/VUE-14354C?style=for-the-badge&logo=vuex&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-14354C?style=for-the-badge&logo=react&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=white)
 ![FLASK](https://img.shields.io/badge/flask-14354C?style=for-the-badge&logo=flask&logoColor=white)
