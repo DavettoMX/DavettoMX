@@ -27,9 +27,9 @@
 #### 💼 PROGRAMMING LANGAGES 💼
 ![PY](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
-![RUBY](https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=white)
+![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=php&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES 💼
