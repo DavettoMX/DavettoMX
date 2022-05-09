@@ -36,7 +36,7 @@
 ![VUE](https://img.shields.io/badge/VUE-14354C?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![NEXTJS](https://img.shields.io/badge/Nextjs-14354C?style=for-the-badge&logo=nextjs&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=white)
-![RAILS](https://img.shields.io/badge/Ruby_on_Rails-20232A?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![RAILS](https://img.shields.io/badge/Ruby_on_Rails-14354C?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![FLASK](https://img.shields.io/badge/flask-14354C?style=for-the-badge&logo=flask&logoColor=white)
 
 #### 💼 DATABASES 💼
@@ -48,7 +48,7 @@
 #### 💼 PROGRAMMING LANGAGES I ALSO KNOW 💼
 ![RUST](https://img.shields.io/badge/rust-20232A?style=for-the-badge&logo=rust&logoColor=white)
 ![DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)
-![REACT](https://img.shields.io/badge/REACT-14354C?style=for-the-badge&logo=react&logoColor=white)
+![REACT](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I ALSO KNOW 💼
 ![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=white)
