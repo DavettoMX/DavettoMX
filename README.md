@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center"> ABOUT ME </h3>
-<p>I am a Backend Developer, focusing in Data Science using.</p>
+<p>I am a Backend Developer, focusing in Data Science</p>
   
 ### 🤝 Connect with me:
 
