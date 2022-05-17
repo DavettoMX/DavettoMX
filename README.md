@@ -3,9 +3,9 @@
 </h1>
 
 <h3 align="center"> ABOUT ME </h3>
-<p>I am a Backend Developer, focusing in Data Science</p>
+<p align="center">I'm 22 years old, I'm a Mexican Data Analyst with Backend Development knowledege.</p>
   
-### 🤝 Connect with me:
+<h3 align="center"> 🤝 Connect with me: </h3>
 
 <div align="center">
   
@@ -22,42 +22,61 @@
   </a>
 </div>
 
+<div align="center">
+  
 # Technical Skills
-
+  
 #### 💼 PROGRAMMING LANGAGES 💼
-![PY](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
-![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=php&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
+  
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-14354C?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
+![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 
-#### 💼 FRAMEWORKS & LIBRARIES 💼
-![VUE](https://img.shields.io/badge/VUE-14354C?style=for-the-badge&logo=Vue.js&logoColor=white)
-![NEXTJS](https://img.shields.io/badge/Nextjs-14354C?style=for-the-badge&logo=nextjs&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=django&logoColor=white)
-![RAILS](https://img.shields.io/badge/Ruby_on_Rails-14354C?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-14354C?style=for-the-badge&logo=spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-14354C?style=for-the-badge&logo=laravel&logoColor=white)
-![FLASK](https://img.shields.io/badge/flask-14354C?style=for-the-badge&logo=flask&logoColor=white)
+#### 💼 FRAMEWORKS 💼
+![Svelte](https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
+![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
+![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
+
+#### 💼 LIBRARIES 💼
+![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
+![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
+![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
+![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
+![Scrappy](https://img.shields.io/static/v1?style=for-the-badge&message=Scrappy&color=013243&logoColor=FFFFFF&label=)
+![Matplotlib](https://img.shields.io/static/v1?style=for-the-badge&message=Matplotlib&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
 
 #### 💼 DATABASES 💼
-![MONGO](https://img.shields.io/badge/MongoDB-14354C?style=for-the-badge&logo=mongodb&logoColor=white)
-![POSTGRE](https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-14354C?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLITE](https://img.shields.io/badge/SQLite-14354C?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
+
+#### 💼 TOOLS 💼
+![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Anaconda](https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=)
+![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 #### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
 ![RUST](https://img.shields.io/badge/rust-20232A?style=for-the-badge&logo=rust&logoColor=white)
+![SCALA](https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=scala&logoColor=white)
 ![DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
-![REACT](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=white)
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white)
-![FLUTTER](https://img.shields.io/badge/Flutter-20232A?style=for-the-badge&logo=flutter&logoColor=white)
-![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)
-![EXPRESS](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge)
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 
 ##### SERVICES I USE
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -65,3 +84,5 @@
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
+</div>
