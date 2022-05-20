@@ -40,7 +40,7 @@
 ![Svelte](https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
-![Tauri](https://img.shields.io/badge/Tauri-14354C?style=for-the-badge&logo=Tauri&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-14354C?style=for-the-badge&logo=Tauri)
 
 #### 💼 LIBRARIES 💼
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
@@ -69,7 +69,6 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 #### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
-![RUST](https://img.shields.io/badge/rust-20232A?style=for-the-badge&logo=rust&logoColor=white)
 ![SCALA](https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=scala&logoColor=white)
 ![DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)
 
