@@ -33,14 +33,14 @@
 ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-14354C?style=for-the-badge&logo=PHP&logoColor=white)
+![RUST](https://img.shields.io/badge/Rust-14354C?style=for-the-badge&logo=Rust&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 
 #### 💼 FRAMEWORKS 💼
 ![Svelte](https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
-![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=CC0000&logo=Laravel&logoColor=FFFFFF&label=)
+![Tauri](https://img.shields.io/badge/Tauri-14354C?style=for-the-badge&logo=Tauri&logoColor=white)
 
 #### 💼 LIBRARIES 💼
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
