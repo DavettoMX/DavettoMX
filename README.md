@@ -1,9 +1,9 @@
-<h1 align="center">
-  💻 HEY THERE! I'M JOSH! 💻
-</h1>
+<h1 align="center">💻 HEY THERE! I'M JOSHUE GARCÍA! 💻</h1>
+<h4 align="center">Backend & Data Engineer Jr</h4>
 
 <h3 align="center"> ABOUT ME </h3>
-<p align="center">I'm 22 years old, I'm a Mexican Data Analyst with Backend Development knowledege.</p>
+<p align="center">I'm a 22 years old Mexican Data Engineer and Backend Developmer focused on Python, Golang and Java</p>
+<p align="center">I love statics and coding so that's the reason I become Data Engineer!</p>
   
 <h3 align="center"> 🤝 Connect with me: </h3>
 
