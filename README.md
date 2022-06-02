@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/joshue-garcia-2805361a8/" target="_blank">
+  <a href="https://www.linkedin.com/in/davettomx/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
   </a>
   
