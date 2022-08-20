@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=Java&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 <!-- ![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white) -->
 #### 💼 FRAMEWORKS 💼
