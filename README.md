@@ -28,8 +28,8 @@
   
 #### 💼 PROGRAMMING LANGAGES 💼
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
+![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=java&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 <!-- ![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white) -->
@@ -37,7 +37,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-<!-- [Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=) -->
+[Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
 
 #### 💼 LIBRARIES 💼
 ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
@@ -69,7 +69,6 @@
 ![DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
-![Svelte](https://img.shields.io/static/v1?style=for-the-badge&message=Svelte&color=FF3E00&logo=Svelte&logoColor=FFFFFF&label=)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
