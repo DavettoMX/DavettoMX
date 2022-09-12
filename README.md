@@ -2,8 +2,8 @@
 <h2 align="center">Python Developer & Data Scientist Jr</h4>
 
 <h3 align="center"> ABOUT ME </h3>
-<p align="center">I'm a 22 years old Mexican Data Engineer and Backend Developmer focused on Python, Golang and Java</p>
-<p align="center">I love statics and coding so that's the reason I become Data Engineer!</p>
+<p align="center">I am a 22 years old Python Developer and Data Scientist Jr.</p>
+<p align="center">I'm starting my career as a Backend Developer focusing in learning Java, Python and SQL, but I want to be a Data Scientist and Machine Learning Engineer. I have study in a lot of Coursera courses, to learn everything I can about Data Science, Machine Learning, and Python, Java & R Programing.</p>
   
 <h3 align="center"> 🤝 Connect with me: </h3>
 
