@@ -30,10 +30,10 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-14354C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
+
 #### 💼 FRAMEWORKS 💼
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
@@ -67,19 +67,15 @@
 
 #### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
 ![SCALA](https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=scala&logoColor=white)
-![DART](https://img.shields.io/badge/dart-20232A?style=for-the-badge&logo=dart&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
-![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 
 ##### SERVICES I USE
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-14354C?style=for-the-badge&logo=docker&logoColor=white)
 ![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Slack](https://img.shields.io/static/v1?style=for-the-badge&message=Slack&color=4A154B&logo=Slack&logoColor=FFFFFF&label=)
 </div>
