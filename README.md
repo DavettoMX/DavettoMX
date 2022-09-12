@@ -30,8 +30,8 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-20232A?style=for-the-badge&logo=scala&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-14354C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=scala&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
 
@@ -70,8 +70,9 @@
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
 
 #### 💼 PROGRAMMING LANGAGES I WANT TO LEARN 💼
-![SCALA](https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=scala&logoColor=white)
+![SCALA](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
+![GO](https://img.shields.io/badge/clojure-14354C?style=for-the-badge&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
