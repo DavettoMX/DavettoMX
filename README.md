@@ -38,6 +38,7 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=CC0000&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
 
 #### 💼 LIBRARIES 💼
@@ -68,7 +69,6 @@
 
 #### 💼 PROGRAMMING LANGAGES I WANT TO LEARN 💼
 ![SCALA](https://img.shields.io/badge/Scala-20232A?style=for-the-badge&logo=scala&logoColor=white)
-![RUST](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
