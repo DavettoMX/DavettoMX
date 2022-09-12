@@ -45,11 +45,11 @@
 ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/static/v1?style=for-the-badge&message=Matplotlib&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
-![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
-![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
-![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=)
-![Scrappy](https://img.shields.io/static/v1?style=for-the-badge&message=Scrappy&color=013243&logoColor=FFFFFF&label=)
-![Selenium](https://img.shields.io/badge/Selenium-404D59?style=for-the-badge)
+<!-- ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=) -->
+<!-- ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=) -->
+<!-- ![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=) -->
+<!-- ![Scrappy](https://img.shields.io/static/v1?style=for-the-badge&message=Scrappy&color=013243&logoColor=FFFFFF&label=) -->
+<!-- ![Selenium](https://img.shields.io/badge/Selenium-404D59?style=for-the-badge) -->
 
 #### 💼 DATABASES 💼
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
