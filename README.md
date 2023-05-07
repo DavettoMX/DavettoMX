@@ -33,7 +33,7 @@ I've studied in a lot of Coursera courses, to learn everything I can about Data 
 ![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=scala&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
   
