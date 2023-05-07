@@ -2,8 +2,11 @@
 <h2 align="center">Python Developer & Data Scientist Jr</h4>
 
 <h3 align="center"> ABOUT ME </h3>
-<p align="center">I am a 22 years old Python Developer and Data Scientist Jr.</p>
-<p align="center">I'm starting my career as a Backend Developer focusing in learning Java, Python and SQL, but I want to be a Data Scientist and Machine Learning Engineer. I have study in a lot of Coursera courses, to learn everything I can about Data Science, Machine Learning, and Python, Java & R Programing.</p>
+<p align="center">23 years old Python Developer and Data Enthusiast</p>
+<p align="center">
+I'm starting my career as a Backend Developer focusing in learning Python and SQL, but I want to be a Data Scientist and Machine Learning Engineer. 
+I've studied in a lot of Coursera courses, to learn everything I can about Data Science, Machine Learning, and Python, Java & R Programing.
+</p>
   
 <h3 align="center"> 🤝 Connect with me: </h3>
 
