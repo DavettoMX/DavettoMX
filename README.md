@@ -14,7 +14,7 @@
     </b>
 </h3>
 
-<p style="text-align: center">
+<p>
     Self-taught Junior Python Backend Develope and Data Enthusiast focusing on create a career into de Machine Learning area, such as artificial vision or natural processing language.
 </p>
 
