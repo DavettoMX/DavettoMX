@@ -1,6 +1,6 @@
 # 💻 HEY THERE! I'M JOSHUE GARCÍA! 💻
 
-<div style="text-align: center">
+<div>
     <h2>
         <b>
         Python Developer & Data Scientist Jr
@@ -8,7 +8,7 @@
     </h2>
 </div>
 
-<h3 style="text-align: center">
+<h3>
     <b>
         ABOUT ME 
     </b>
