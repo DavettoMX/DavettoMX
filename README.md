@@ -29,14 +29,18 @@ I've studied in a lot of Coursera courses, to learn everything I can about Data 
   
 # Technical Skills
   
-#### 💼 PROGRAMMING LANGAGES 💼
+#### 💼 PROGRAMMING LANGAGES I KNOW💼
+![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-14354C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=scala&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
+  
+#### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
+![SCALA](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
+![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
+![Clojure](https://img.shields.io/badge/clojure-14354C?style=for-the-badge&logoColor=white)
 
 #### 💼 FRAMEWORKS 💼
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -72,11 +76,6 @@ I've studied in a lot of Coursera courses, to learn everything I can about Data 
 ![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
 ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-
-#### 💼 PROGRAMMING LANGAGES I WANT TO LEARN 💼
-![SCALA](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
-![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
-![Clojure](https://img.shields.io/badge/clojure-14354C?style=for-the-badge&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
