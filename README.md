@@ -72,7 +72,7 @@
 #### 💼 PROGRAMMING LANGAGES I WANT TO LEARN 💼
 ![SCALA](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
-![GO](https://img.shields.io/badge/clojure-14354C?style=for-the-badge&logoColor=white)
+![Clojure](https://img.shields.io/badge/clojure-14354C?style=for-the-badge&logoColor=white)
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
