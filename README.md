@@ -1,13 +1,24 @@
-<h1 align="center">💻 HEY THERE! I'M JOSHUE GARCÍA! 💻</h1>
-<h2 align="center">Python Developer & Data Scientist Jr</h4>
+# 💻 HEY THERE! I'M JOSHUE GARCÍA! 💻
 
-<h3 align="center"> ABOUT ME </h3>
-<p align="center">23 years old Python Developer and Data Enthusiast</p>
-<p align="center">
-I'm starting my career as a Backend Developer focusing in learning Python and SQL, but I want to be a Data Scientist and Machine Learning Engineer. 
-I've studied in a lot of Coursera courses, to learn everything I can about Data Science, Machine Learning, and Python, Java & R Programing.
+<div style="text-align: center">
+    <h2>
+        <b>
+        Python Developer & Data Scientist Jr
+        </b>
+    </h2>
+</div>
+
+<h3 style="text-align: center">
+    <b>
+        ABOUT ME 
+    </b>
+</h3>
+
+<p style="text-align: center">
+    Self-taught Junior Python Backend Develope and Data Enthusiast focusing on create a career into de Machine Learning area, such as artificial vision or natural processing language.
 </p>
-  
+
+
 <h3 align="center"> 🤝 Connect with me: </h3>
 
 <div align="center">
