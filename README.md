@@ -3,7 +3,7 @@
 <div>
     <h2>
         <b>
-        Python Developer & Data Scientist Jr
+            Full-Stack Developer & Machine Learning Enthusiast
         </b>
     </h2>
 </div>
@@ -15,7 +15,9 @@
 </h3>
 
 <p>
-    Self-taught Junior Python Backend Develope and Data Enthusiast focusing on create a career into de Machine Learning area, such as artificial vision or natural processing language.
+    Self-Taught Full-Stack Developer focused on Backend Development & Machine Learning Enthusiast.
+    Passionate of the AI World, looking to create a career into the Data World. I'm a curious person, always looking to learn new things
+    and practice to improve my skills.
 </p>
 
 
@@ -42,18 +44,19 @@
   
 # Technical Skills
   
-#### 💼 PROGRAMMING LANGAGES I KNOW💼
-![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
+#### 💼 PROGRAMMING LANGAGES💼
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-14354C?style=for-the-badge&logo=elixir&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/java-14354C?style=for-the-badge&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=scala&logoColor=white)
-![RUBY](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
+
   
 #### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
-![SCALA](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 ![Clojure](https://img.shields.io/badge/clojure-14354C?style=for-the-badge&logoColor=white)
+![SCALA](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
 
 #### 💼 FRAMEWORKS 💼
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
