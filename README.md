@@ -95,7 +95,7 @@
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
-![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+UI&color=319795&logo=Tailwind&logoColor=FFFFFF&label=)
+![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind&color=319795&logo=tailwindcss&logoColor=FFFFFF&label=)
 ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 
