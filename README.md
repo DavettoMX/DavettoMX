@@ -95,12 +95,12 @@
 
 #### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+UI&color=319795&logo=Tailwind&logoColor=FFFFFF&label=)
 ![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 
 ##### SERVICES I USE
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/docker-14354C?style=for-the-badge&logo=docker&logoColor=white)
-![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 </div>
