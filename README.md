@@ -64,8 +64,7 @@
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=20232A&logo=Django&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastApi-20232A?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-20232A?style=for-the-badge&logo=spring&logoColor=white)
+![Pheonix](https://img.shields.io/badge/Phoenix-20232A?style=for-the-badge&logo=elixir&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=20232A&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
 
 #### 💼 LIBRARIES 💼
@@ -81,10 +80,10 @@
 <!-- ![Selenium](https://img.shields.io/badge/Selenium-404D59?style=for-the-badge) -->
 
 #### 💼 DATABASES 💼
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=4169E1&logo=GraphQL&logoColor=FFFFFF&label=)
 
 #### 💼 TOOLS 💼
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
