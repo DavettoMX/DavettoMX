@@ -62,7 +62,7 @@
 #### 💼 FRAMEWORKS 💼
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nestjs](https://img.shields.io/badge/nestjs-14354C?style=for-the-badge&logo=nestjs&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=20232A&logo=Django&logoColor=FFFFFF&label=)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
 ![Pheonix](https://img.shields.io/badge/Phoenix-20232A?style=for-the-badge&logo=elixir&logoColor=white)
