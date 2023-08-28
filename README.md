@@ -81,7 +81,6 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Phoenix](https://img.shields.io/badge/phoenix-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![OTP](https://img.shields.io/badge/OTP-white.svg?style=for-the-badge&logo=OTP&logoColor=a90533)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 #### Machine Learning / Deep Learning Tools
