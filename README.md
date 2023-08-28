@@ -48,7 +48,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-14354C?style=for-the-badge&logo=elixir&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-14354C.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-14354C?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=scala&logoColor=white)
