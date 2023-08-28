@@ -59,14 +59,21 @@
 
 ### WEB FRAMEWORKS AND LIBRARIES
 
-#### JAVASCRIPT
-##### Libraries
+##### JavaScript
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+##### Python
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
+
+##### Elixir
 ![Pheonix](https://img.shields.io/badge/Phoenix-20232A?style=for-the-badge&logo=elixir&logoColor=white)
+
+##### Ruby
 ![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=20232A&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
+
+##### Java
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 #### CSS LIBRARIES
