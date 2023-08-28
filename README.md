@@ -44,19 +44,24 @@
   
 # Technical Skills
   
-#### 💼 PROGRAMMING LANGAGES💼
+## 💼 PROGRAMMING LANGAGES AND TECHNOLOGIES I KNOW 💼
+#### PROGRAMMING LANGAGES
+![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-14354C?style=for-the-badge&logo=ruby&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-14354C?style=for-the-badge&logo=elixir&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Java](https://img.shields.io/badge/java-14354C.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-14354C?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-14354C?style=for-the-badge&logo=javascript&logoColor=white)
+
+#### QUERY AND SCRIPTING LANGAGES
 ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=scala&logoColor=white)
 
   
 #### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
-![Go](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 ![Clojure](https://img.shields.io/badge/Clojure-14354C.svg?style=for-the-badge&logo=Clojure&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
 
@@ -85,7 +90,7 @@
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=4169E1&logo=GraphQL&logoColor=FFFFFF&label=)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 #### 💼 TOOLS 💼
 ![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
