@@ -57,7 +57,7 @@
 #### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
 ![Go](https://img.shields.io/badge/Go-14354C?style=for-the-badge&logo=go&logoColor=white)
 ![R](https://img.shields.io/badge/r-14354C?style=for-the-badge&logo=r&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+![Clojure](https://img.shields.io/badge/Clojure-14354VClojure.svg?style=for-the-badge&logo=Clojure&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-14354C?style=for-the-badge&logo=scala&logoColor=white)
 
 #### 💼 FRAMEWORKS 💼
