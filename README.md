@@ -56,8 +56,28 @@
 #### QUERY AND SCRIPTING LANGAGES
 ![SQL](https://img.shields.io/badge/sql-14354C?style=for-the-badge&logo=scala&logoColor=white)
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white)
+
+### WEB FRAMEWORKS AND LIBRARIES
+
+#### JAVASCRIPT
+##### Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
+![Pheonix](https://img.shields.io/badge/Phoenix-20232A?style=for-the-badge&logo=elixir&logoColor=white)
+![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=20232A&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+#### CSS LIBRARIES
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### TOOLS
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
   
-#### 💼 PROGRAMMING LANGAGES I'M LEARNING 💼
+## 💼 PROGRAMMING LANGAGES AND TECHNOLOGIES I'M LEARNING 💼
+
+#### PROGRAMMING LANGAGES
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -65,49 +85,17 @@
 ![Clojure](https://img.shields.io/badge/Clojure-14354C.svg?style=for-the-badge&logo=Clojure&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
-#### 💼 FRAMEWORKS 💼
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+#### WEB FRAMEWORKS AND LIBRARIES
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Nestjs](https://img.shields.io/badge/Nestjs-20232A?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=20232A&logo=Django&logoColor=FFFFFF&label=)
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white)
-![Pheonix](https://img.shields.io/badge/Phoenix-20232A?style=for-the-badge&logo=elixir&logoColor=white)
-![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=20232A&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
 
-#### 💼 LIBRARIES 💼
-![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
-![NumPy](https://img.shields.io/static/v1?style=for-the-badge&message=NumPy&color=013243&logo=NumPy&logoColor=FFFFFF&label=)
-![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Matplotlib](https://img.shields.io/static/v1?style=for-the-badge&message=Matplotlib&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=)
-<!-- ![PyTorch](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=) -->
-<!-- ![Plotly](https://img.shields.io/static/v1?style=for-the-badge&message=Plotly&color=3F4F75&logo=Plotly&logoColor=FFFFFF&label=) -->
-<!-- ![SciPy](https://img.shields.io/static/v1?style=for-the-badge&message=SciPy&color=222222&logo=SciPy&logoColor=8CAAE6&label=) -->
-<!-- ![Scrappy](https://img.shields.io/static/v1?style=for-the-badge&message=Scrappy&color=013243&logoColor=FFFFFF&label=) -->
-<!-- ![Selenium](https://img.shields.io/badge/Selenium-404D59?style=for-the-badge) -->
+#### LIBRARIES
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-#### 💼 DATABASES 💼
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+#### DATABASES
 
-#### 💼 TOOLS 💼
-![Microsoft Excel](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Excel&color=217346&logo=Microsoft+Excel&logoColor=FFFFFF&label=)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Anaconda](https://img.shields.io/static/v1?style=for-the-badge&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label=)
-![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
-![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+#### TOOLS
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
-#### 💼 FRAMEWORKS & LIBRARIES I'M LEARNING  💼
-![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
-![Tailwind](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind&color=319795&logo=tailwindcss&logoColor=FFFFFF&label=)
-![Chakra UI](https://img.shields.io/static/v1?style=for-the-badge&message=Chakra+UI&color=319795&logo=Chakra+UI&logoColor=FFFFFF&label=)
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
-
-##### SERVICES I USE
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![DOCKER](https://img.shields.io/badge/docker-14354C?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### SERVICES
 </div>
