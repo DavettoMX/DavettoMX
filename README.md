@@ -83,6 +83,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/phoenix-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![OTP](https://img.shields.io/badge/OTP-white.svg?style=for-the-badge&logo=OTP&logoColor=a90533)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 #### Machine Learning / Deep Learning Tools
@@ -153,10 +154,9 @@
 ### Frameworks and Libraries
 
 #### Web Development
-
-##### JavaScript
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=gin&logoColor=white)
 
 #### Machine Learning / Deep Learning Tools
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
