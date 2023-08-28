@@ -1,11 +1,11 @@
-# 💻 HEY THERE! I'M JOSHUE GARCÍA! 💻
+# 💻 JOSHUE GARCÍA! 💻
 
 <div>
-    <h2>
+    <h4>
         <b>
             Full-Stack Developer & Machine Learning Enthusiast
         </b>
-    </h2>
+    </h4>
 </div>
 
 <h3>
