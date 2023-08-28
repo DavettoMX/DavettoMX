@@ -69,7 +69,7 @@
 
 ![Pheonix](https://img.shields.io/badge/Phoenix-20232A?style=for-the-badge&logo=elixir&logoColor=white)
 
-![Ruby on Rails](https://img.shields.io/static/v1?style=for-the-badge&message=Ruby+on+Rails&color=20232A&logo=Ruby+on+Rails&logoColor=FFFFFF&label=)
+![Ruby On Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
