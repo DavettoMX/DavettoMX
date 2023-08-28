@@ -67,7 +67,6 @@
 ## Frameworks and Libraries
 
 ### Web Development
-<hr>
 
 ##### CSS
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
