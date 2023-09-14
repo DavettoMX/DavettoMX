@@ -3,7 +3,7 @@
 <div>
     <h4>
         <b>
-            Backend, Data & DevOps Engineer 
+            Full-Stack Cloud Developer & Data Engineer | MLOps & DevOps
         </b>
     </h4>
 </div>
@@ -15,9 +15,9 @@
 </h3>
 
 <p>
-    Self-Taught Full-Stack Developer focused on Backend Development and Data Engineering processes. Learning about DevOps to become a MLOps Engineer
-    with a specialization in Cloud Computing. Passionate of the AI World, looking to create a career into the Data World. I'm a curious person, 
-    always looking to learn new things and practice to improve my skills.
+    Self-Taught Full-Stack Developer focused on Backend Development and Data Engineering processes. 
+    Learning about DevOps to become a MLOps Engineer with a specialization in Cloud Computing. 
+    Passionate of the AI World, looking to create a career into the Data World. 
 </p>
 
 
