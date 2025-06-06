@@ -44,7 +44,7 @@
 ### PROGRAMING LANGUGAGES
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23ED8B00.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### QUERY LANGUGAGES
@@ -53,7 +53,7 @@
 
 ### WEB FRAMEWORKS
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23CC0000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### LIBRARIES
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
