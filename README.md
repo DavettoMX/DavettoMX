@@ -1,64 +1,88 @@
 # Joshue Rogelio Garcia Butron
 
-**Cloud AI Data Engineer | MLOps & DevSecOps | Distributed Systems | Offensive LLM Security**
+**Cloud AI Data Engineer | MLOps & Platform Engineer | Distributed Systems | Adversarial AI Security**
 
-Actualmente trabajo en NTT Data como Ingeniero de Datos (Azure, Databricks, PySpark), y en InTheLoop como MLOps & Infra Engineer. Estoy construyendo plataformas desde cero con enfoque en despliegue seguro de modelos, infraestructura reproducible y evaluación adversarial de sistemas autónomos. También desarrollo herramientas ofensivas y defensivas para LLMs en mi startup GreyLayer.
+I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **In The Loop** as a MLOps & Platform Engineer. I'm building secure, production-ready ML infrastructure and distributed systems from scratch — including CI/CD, IaC, model deployment, and monitoring. I'm also developing offensive security tools for LLMs and autonomous systems under my startup, **GreyLayer**.
 
 ---
 
-## 🔧 Tech Stack Actual
+## 🔧 Current Tech Stack
 
-### Lenguajes
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23ED8B00.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23DC322F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+### Backend & LLMs
+![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-2F3E46?style=for-the-badge)
+
+### Data Engineering & MLOps
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+![Apache Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9E5?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
-### Infra & MLOps
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Infra & DevSecOps
+![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 
-### Cloud
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Cloud Platforms
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-880088.svg?style=for-the-badge)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-880088?style=for-the-badge)
 
-### Ciencia de Datos y AI
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+### AI & CV
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ---
 
-## 🚧 Explorando actualmente
+## 🚀 Currently Exploring
 
-- Evaluación adversarial de LLMs
-- Cómputo distribuido en clusters GKE
-- Fuzzing, jailbreaking y fingerprinting de modelos generativos
-- Seguridad ofensiva en aplicaciones de IA
-- Rust y Go aplicados a tooling para infraestructura
+- Secure ML pipelines and zero-trust model deployments
+- Distributed inference and vector databases at scale
+- LLM red teaming, jailbreaks, fuzzing, fingerprinting
+- Offensive security tools for AI systems
+- Real-time streaming with Kafka and high-scale data pipelines
 
 ---
 
-## 📲 Conecta conmigo
+## 🎓 Certifications
+
+| Certification | Status |
+|---------------|--------|
+| Certified in Cybersecurity (CC) – ISC2 | ✅ Obtained |
+| eJPT (Junior Penetration Tester – INE/OffSec) | ⏳ In Progress |
+| Terraform Associate (HashiCorp) | ⏳ In Progress |
+| Databricks Data Engineer Associate | ⏳ In Progress |
+| Azure AI Engineer Associate (Microsoft) | ⏳ In Progress |
+
+---
+
+## 📲 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuegarcia)
 [![TikTok](https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@davetto_mx)
