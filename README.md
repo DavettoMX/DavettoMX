@@ -95,9 +95,6 @@ I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **
 
 ## 🧪 Featured Projects
 
-- **PromptQuarantine** – Isolation layer for untrusted LLM input (WIP)
-- **Terraform GKE Bootstrap** – Private GKE cluster with NAT, DNS, CI/CD and ML serving (under InTheLoop)
-- **LLM Blackbox Fuzzer** – Adversarial fuzz testing tool for RAG/LLMs (GreyLayer)
 
 ---
 
