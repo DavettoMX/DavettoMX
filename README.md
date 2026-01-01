@@ -15,10 +15,6 @@ I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23DC322F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Frontend & UI Tooling
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
 ### Backend & LLMs
 ![FastAPI](https://img.shields.io/badge/FastAPI-00C7B7?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-000000.svg?style=for-the-badge)
