@@ -49,10 +49,10 @@ I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20Database-orange)
 ![Chroma](https://img.shields.io/badge/ChromaDB-Vector%20Database-orange)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI & CV
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
