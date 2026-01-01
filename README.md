@@ -36,7 +36,6 @@ I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Monitoring
@@ -51,7 +50,8 @@ I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-880088?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-Vector%20Database-orange)
+![Chroma](https://img.shields.io/badge/ChromaDB-880088?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### AI & CV
@@ -62,18 +62,9 @@ I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **
 
 ### IDE & Code Editors
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![CLion](https://img.shields.io/badge/clion-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-
----
-
-## 🚀 Currently Exploring
-
-- Secure ML pipelines and zero-trust model deployments
-- Distributed inference and vector databases at scale
-- LLM red teaming, jailbreaks, fuzzing, fingerprinting
-- Offensive security tools for AI systems
-- Real-time streaming with Kafka and high-scale data pipelines
 
 ---
 
@@ -81,11 +72,7 @@ I work at **NTT Data** as a Data Engineer (Azure, Databricks, PySpark) and at **
 
 | Certification | Status |
 |---------------|--------|
-| Certified in Cybersecurity (CC) – ISC2 | ✅ Obtained |
-| eJPT (Junior Penetration Tester – INE/OffSec) | ⏳ In Progress |
-| Terraform Associate (HashiCorp) | ⏳ In Progress |
-| Databricks Data Engineer Associate | ⏳ In Progress |
-| Azure AI Engineer Associate (Microsoft) | ⏳ In Progress |
+| eJPT (Junior Penetration Tester – INE/OffSec) | ⏳ ✅ Obtained |
 
 ---
 
