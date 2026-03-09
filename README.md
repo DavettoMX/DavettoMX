@@ -26,6 +26,12 @@ End-to-end license plate recognition pipeline: image processing, OCR evaluation,
 **[Diagrams for AI Agents](https://github.com/DavettoMX)** `WIP`  
 Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read, propose, and manipulate designs without generating code. `.diagram` files version-controlled in Git.
 
+**[Medical Image Diagnostic Assistant](https://github.com/DavettoMX)**
+Vision-language system using LLaVA-Med that analyzes medical images (X-rays, MRI, anatomical diagrams) and responds to natural language queries about anomalies and diagnoses, producing structured diagnostic output.
+
+**[Multimodal Document Analysis Assistant](https://github.com/DavettoMX)**
+Multimodal document understanding system that processes scanned documents and text images using vision-language models, enabling natural language queries against visual content with structured information extraction.
+
 </td>
 <td width="50%" valign="top">
 
