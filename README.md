@@ -31,13 +31,20 @@ Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read
 
 ### 🧠 Core Stack
 
-**Languages** — Python · C/C++ · Rust · SQL · Bash  
-**CV & Deep Learning** — PyTorch · OpenCV · scikit-learn · Tensorflow
-**Data & MLOps** — Spark · Airflow · Kafka · Databricks · MLflow  
-**Infra** — Podman · Docker · Kubernetes · Terraform · Helm · GitHub Actions  
-**Cloud** — Azure · GCP · AWS  
-**LLM Tooling** — FastAPI · LangChain · LlamaIndex · vLLM  
-**Databases** — PostgreSQL · Redis · MongoDB · Qdrant · ChromaDB
+**Languages**  
+[![Languages](https://skillicons.dev/icons?i=py,cpp,rust,go,bash&theme=dark)](https://skillicons.dev)
+
+**CV · Deep Learning · MLOps**  
+[![ML](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,sklearn&theme=dark)](https://skillicons.dev)  
++ Spark · Airflow · Kafka · Databricks · MLflow
+
+**Infra · Cloud**  
+[![Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,gcp,azure&theme=dark)](https://skillicons.dev)  
++ Podman · Helm
+
+**Backend · Databases**  
+[![Backend](https://skillicons.dev/icons?i=fastapi,postgres,redis,mongodb&theme=dark)](https://skillicons.dev)  
++ LangChain · LlamaIndex · vLLM · Qdrant · ChromaDB
 
 </td>
 </tr>
