@@ -36,14 +36,16 @@ Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read
 
 **CV · Deep Learning · MLOps**  
 [![ML](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,sklearn&theme=dark)](https://skillicons.dev)  
-+ Spark · Airflow · Kafka · Databricks · MLflow
 
 **Infra · Cloud**  
 [![Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,gcp,azure&theme=dark)](https://skillicons.dev)  
 + Podman · Helm
 
 **Backend · Databases**  
-[![Backend](https://skillicons.dev/icons?i=fastapi,postgres,redis,mongodb&theme=dark)](https://skillicons.dev)  
+[![Backend](https://skillicons.dev/icons?i=fastapi,postgres,redis,mongodb&theme=dark)](https://skillicons.dev)
+
+**More Tooling **
++ Spark · Airflow · Kafka · Databricks · MLflow
 + LangChain · LlamaIndex · vLLM · Qdrant · ChromaDB
 
 </td>
