@@ -87,7 +87,7 @@ Adversarial testing · Dataset poisoning detection · Pipeline auditing.
 <tr>
 <td width="50%" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&count_private=true)](https://github.com/DavettoMX)
+![DavettoMX GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </td>
 <td width="50%" align="center">
