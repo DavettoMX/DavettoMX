@@ -35,7 +35,7 @@ Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read
 [![Languages](https://skillicons.dev/icons?i=py,cpp,rust,gp,bash&theme=dark)](https://skillicons.dev)
 
 **CV · Deep Learning · MLOps**  
-[![ML](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,sklearn,pyspark&theme=dark)](https://skillicons.dev)  
+[![ML](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,sklearn&theme=dark)](https://skillicons.dev)  
 + Spark · Airflow · Kafka · Databricks · MLflow
 
 **Infra · Cloud**  
