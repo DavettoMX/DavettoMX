@@ -39,12 +39,12 @@ Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read
 
 **Infra · Cloud**  
 [![Infra](https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws,gcp,azure&theme=dark)](https://skillicons.dev)  
-+ Podman · Helm
 
 **Backend · Databases**  
 [![Backend](https://skillicons.dev/icons?i=fastapi,postgres,redis,mongodb&theme=dark)](https://skillicons.dev)
 
 **More Tooling **
++ Podman · Helm
 + Spark · Airflow · Kafka · Databricks · MLflow
 + LangChain · LlamaIndex · vLLM · Qdrant · ChromaDB
 
