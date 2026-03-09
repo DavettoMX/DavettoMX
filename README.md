@@ -43,7 +43,7 @@ Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read
 **Backend · Databases**  
 [![Backend](https://skillicons.dev/icons?i=fastapi,postgres,redis,mongodb&theme=dark)](https://skillicons.dev)
 
-**More Tooling **
+**More Tooling**
 + Podman · Helm
 + Spark · Airflow · Kafka · Databricks · MLflow
 + LangChain · LlamaIndex · vLLM · Qdrant · ChromaDB
