@@ -32,7 +32,7 @@ Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read
 ### 🧠 Core Stack
 
 **Languages**  
-[![Languages](https://skillicons.dev/icons?i=py,cpp,rust,gp,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,cpp,rust,go,bash&theme=dark)](https://skillicons.dev)
 
 **CV · Deep Learning · MLOps**  
 [![ML](https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,sklearn&theme=dark)](https://skillicons.dev)  
