@@ -31,10 +31,10 @@ Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read
 
 ### 🧠 Core Stack
 
-**Languages** — Python · Go · Rust · SQL · Bash  
-**CV & Deep Learning** — PyTorch · OpenCV · scikit-learn  
+**Languages** — Python · C/C++ · Rust · SQL · Bash  
+**CV & Deep Learning** — PyTorch · OpenCV · scikit-learn · Tensorflow
 **Data & MLOps** — Spark · Airflow · Kafka · Databricks · MLflow  
-**Infra** — Docker · Kubernetes · Terraform · Helm · GitHub Actions  
+**Infra** — Podman · Docker · Kubernetes · Terraform · Helm · GitHub Actions  
 **Cloud** — Azure · GCP · AWS  
 **LLM Tooling** — FastAPI · LangChain · LlamaIndex · vLLM  
 **Databases** — PostgreSQL · Redis · MongoDB · Qdrant · ChromaDB
