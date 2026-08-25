@@ -1,8 +1,8 @@
 <div align="center">
 
-# Joshue Garcia
+# Joshue Rogelio Garcia Butron
 
-**Computer Vision & VLM Engineer | Builder | Security-Minded**
+**Machine Learning & Computer Vision Engineer | MLOps · PyTorch · TensorRT · ONNX · CUDA · Kubernetes |**
 
 Building tools for AI infrastructure, adversarial ML security, and visual systems.  
 Currently engineering data pipelines at **NTT DATA** while building **GreyLayer** — offensive security tooling for LLMs and autonomous systems.
