@@ -1,10 +1,8 @@
 <div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Joshue+Rogelio+Garcia+Butron!;" />
-</h1>
+# Joshue Rogelio Garcia Butron
 
-### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
+**Machine Learning & Computer Vision Engineer | MLOps · PyTorch · TensorRT · ONNX · CUDA · Kubernetes |**
 
 Building tools for AI infrastructure, adversarial ML security, and visual systems.  
 Currently engineering data pipelines at **NTT DATA** while building **GreyLayer** — offensive security tooling for LLMs and autonomous systems.
