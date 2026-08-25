@@ -89,20 +89,17 @@ Adversarial testing · Dataset poisoning detection · Pipeline auditing.
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%" align="center">
+## ⚡️ Stats
 
-![DavettoMX GitHub stats](https://github-readme-stats.vercel.app/api?username=DavettoMX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<br>
 
-</td>
-<td width="50%" align="center">
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavettoMX&layout=compact&theme=github_dark&hide_border=true&hide_title=true)](https://github.com/DavettoMX)
-
-</td>
-</tr>
-</table>
+<hr>
 
 <div align="center">
 
