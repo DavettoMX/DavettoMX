@@ -91,18 +91,21 @@ Adversarial testing · Dataset poisoning detection · Pipeline auditing.
 
 ## ⚡️ Stats
 
-<div align="center">
-  <picture>
-    <img width="49%" src="./profile/stats.svg" alt="DavettoMX GitHub Stats" />
-  </picture>
-  <picture>
-    <img width="49%" src="./profile/streak.svg" alt="DavettoMX Streak Stats" />
-  </picture>
-  <br>
-  <picture>
-    <img width="38%" src="./profile/top-langs.svg" alt="DavettoMX Most Used Languages" />
-  </picture>
-</div>
+<table>
+<tr>
+<td width="50%" rowspan="2" align="center">
+  <img width="100%" src="./profile/top-langs.svg" alt="DavettoMX Most Used Languages" />
+</td>
+<td width="50%" align="center">
+  <img width="100%" src="./profile/streak.svg" alt="DavettoMX Streak Stats" />
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img width="100%" src="./profile/stats.svg" alt="DavettoMX GitHub Stats" />
+</td>
+</tr>
+</table>
 
 <hr>
 
