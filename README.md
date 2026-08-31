@@ -17,20 +17,14 @@ Currently engineering data pipelines at **NTT DATA** while building **GreyLayer*
 
 ### 🔨 What I'm Building
 
-**[FastAPI Doctor](https://github.com/DavettoMX/fastapi-doctor)** `WIP`  
-Static analysis CLI for FastAPI & AI microservice backends. Domain-aware linting, anti-pattern detection, health scoring. No equivalent exists in the market.
+**[FastAPI Doctor](https://github.com/DavettoMX/fastapi-doctor)** `WIP`
+CLI tool to audit FastAPI projects for code quality, performance, architecture, and security anti-patterns. Inspired by react-doctor.
 
-**[Photo-Enforcement System](https://github.com/DavettoMX)** `WIP`  
+**[Photo-Enforcement System](https://github.com/DavettoMX/Sistema-de-Fotomultas-del-Estado-de-Mexico)** `WIP`
 End-to-end license plate recognition pipeline: image processing, OCR evaluation, infrastructure budgeting, and system quality framework for traffic enforcement.
 
-**[Diagrams for AI Agents](https://github.com/DavettoMX)** `WIP`  
-Visual diagram editor (ERD, UML, flowcharts) with MCP interface. Agents can read, propose, and manipulate designs without generating code. `.diagram` files version-controlled in Git.
-
-**[Medical Image Diagnostic Assistant](https://github.com/DavettoMX)**
-Vision-language system using LLaVA-Med that analyzes medical images (X-rays, MRI, anatomical diagrams) and responds to natural language queries about anomalies and diagnoses, producing structured diagnostic output.
-
-**[Multimodal Document Analysis Assistant](https://github.com/DavettoMX)**
-Multimodal document understanding system that processes scanned documents and text images using vision-language models, enabling natural language queries against visual content with structured information extraction.
+**[Unchain](https://github.com/DavettoMX/unchain)** `WIP`
+Lightweight, zero-framework agentic runtime for llama.cpp servers. Drives llama-server's native HTTP API directly — no SDKs, no agent frameworks. Grammar-constrained tool calling, full execution history in PostgreSQL, local-first.
 
 </td>
 <td width="50%" valign="top">
