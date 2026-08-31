@@ -17,7 +17,7 @@ Currently engineering data pipelines at **NTT DATA** while building **GreyLayer*
 
 ### 🔨 What I'm Building
 
-**[FastAPI Doctor]([https://github.com/DavettoMX](https://github.com/DavettoMX/fastapi-doctor))** `WIP`  
+**[FastAPI Doctor](https://github.com/DavettoMX/fastapi-doctor)** `WIP`  
 Static analysis CLI for FastAPI & AI microservice backends. Domain-aware linting, anti-pattern detection, health scoring. No equivalent exists in the market.
 
 **[Photo-Enforcement System](https://github.com/DavettoMX)** `WIP`  
