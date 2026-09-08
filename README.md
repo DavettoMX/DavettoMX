@@ -17,6 +17,9 @@ Currently engineering data pipelines at **NTT DATA** while building **GreyLayer*
 
 ### 🔨 What I'm Building
 
+**[Basalt](https://github.com/DavettoMX/basalt)** `WIP`
+Context provisioning for AI agents — `.decree` header files that give codebases a machine-readable map. Progressive disclosure (topology → structure → behavior), institutional memory, and enforcement hooks. Like Terraform, but for agent context.
+
 **[FastAPI Doctor](https://github.com/DavettoMX/fastapi-doctor)** `WIP`
 CLI tool to audit FastAPI projects for code quality, performance, architecture, and security anti-patterns. Inspired by react-doctor.
 
